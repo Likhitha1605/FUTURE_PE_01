@@ -1,0 +1,19 @@
+Act as a professional fitness website copywriter.
+Write a FAQ section for a premium gym called Club F7 located in Vizag.
+Audience:
+- beginners
+- college students
+- working professionals
+- fitness enthusiasts
+- parents
+Tone:
+Friendly, professional, motivating, and clear.
+Create 8 realistic FAQs with answers related to:
+- memberships
+- beginner support
+- trainers
+- workout timings
+- kids training
+- fitness programs
+- trial sessions
+- facilities

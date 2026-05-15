@@ -1,0 +1,15 @@
+Act as a professional fitness marketing copywriter.
+Write a Membership CTA section for a premium fitness gym called Club F7 located in Vizag.
+Target audience:
+- college students
+- working professionals
+- fitness enthusiasts
+- beginners
+Tone:
+Motivational, premium, energetic, and persuasive.
+Include:
+1. Strong CTA headline
+2. Short persuasive paragraph
+3. Membership benefits
+4. Primary CTA button text
+5. Secondary CTA button text
