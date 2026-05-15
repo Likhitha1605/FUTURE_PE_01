@@ -1,24 +1,3 @@
-# FUTURE_PE_01
-Now you have most major website sections completed.
-
-Next important step:
-
-# Create README.md
-
-This is one of the most important files in your GitHub project because it explains:
-
-* what the project is,
-* what tools you used,
-* your prompt engineering workflow,
-* and your deliverables.
-
-Create a file named:
-
-
-README.md
-```
-
-
 # AI-Powered Website Copy Optimization for Club F7
 
 ## Project Overview
@@ -118,6 +97,3 @@ Some testimonials and transformation experiences were adapted and professionally
 
 ## Internship
 Future Interns — Prompt Engineering Internship 2026
-```
-
-This README will make your repo look organized and professional.
