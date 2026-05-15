@@ -14,13 +14,11 @@ This is one of the most important files in your GitHub project because it explai
 
 Create a file named:
 
-```text id="v5n8pk"
+
 README.md
 ```
 
-Paste this content:
 
-```text id="q2r7mf"
 # AI-Powered Website Copy Optimization for Club F7
 
 ## Project Overview
